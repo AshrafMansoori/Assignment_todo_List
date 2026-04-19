@@ -1,57 +1,43 @@
-# Getting Started with Create React App
+# To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and intuitive React-based To-Do List application that helps you organize your tasks efficiently.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- ✅ Add new tasks to your list
+- 🗑️ Delete individual tasks
+- 🧹 Clear all tasks at once
+- 📊 Track pending tasks count
+- 🎨 Clean and responsive user interface
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React** - A JavaScript library for building user interfaces
+- **Create React App** - Build setup and development tools
+- **CSS** - For styling the application
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+src/
+├── App.js          # Main application component
+├── App.css         # Application styles
+├── button.js       # Button components and icons
+├── index.js        # Application entry point
+└── ...
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feel free to submit issues and enhancement requests!
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is private and for personal use.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
@@ -61,10 +47,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### 👨‍💻 About
 
-### `npm run build` fails to minify
+This Todo application showcases practical skills in building interactive user interfaces using modern React practices. It demonstrates the use of state management, component-based architecture, and dynamic rendering to manage tasks efficiently. The app focuses on clean UI design, responsive layout, and real-time user interactions such as adding and deleting tasks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 😎😎 Author
+**Ashraful Haq Aamir**
+*Github:  https://github.com/AshrafMansoori
+*LinkedIn: www.linkedin.com/in/ashraful-haq-aamir-ba1635313
+*LeetCode: https://leetcode.com/u/AshrafMansoori/
+
+---
+⭐ If You Like This Project,Don't Forget To Star The Repo!
