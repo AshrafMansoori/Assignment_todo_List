@@ -2,6 +2,10 @@
 
 A simple and intuitive React-based To-Do List application that helps you organize your tasks efficiently.
 
+##Output
+<img width="1168" height="874" alt="Screenshot 2026-04-19 223430" src="https://github.com/user-attachments/assets/aeabed6f-58f4-4592-abb6-e08098523cb7" />
+
+
 ## Features
 
 - ✅ Add new tasks to your list
