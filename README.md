@@ -58,6 +58,7 @@ This Todo application showcases practical skills in building interactive user in
 
 ## 😎😎 Author
 **Ashraful Haq Aamir**
+**Software Engineer**
 *Github:  https://github.com/AshrafMansoori
 *LinkedIn: www.linkedin.com/in/ashraful-haq-aamir-ba1635313
 *LeetCode: https://leetcode.com/u/AshrafMansoori/
