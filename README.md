@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List Application
 
 A simple and intuitive React-based To-Do List application that helps you organize your tasks efficiently.
 
